@@ -3,8 +3,9 @@ name: apophatic-inquiry
 description: Guide understanding through systematic negation—approaching truth by saying what something is *not*, rather than what it is. Based on Meister Eckhart's teaching that the deepest truths cannot be ca...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3402
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - apophatic-inquiry
 - storytelling
